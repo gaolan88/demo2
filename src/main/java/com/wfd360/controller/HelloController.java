@@ -13,7 +13,7 @@ public class HelloController {
     @ResponseBody
     public String data() {
         System.out.println("---------656565656088080898--------");
-        return "hello world 87879878，。了。了。87";
+        return "hello world 878799999。87";
     }
 }
 
