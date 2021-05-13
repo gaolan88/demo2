@@ -12,8 +12,8 @@ public class HelloController {
     @RequestMapping("/data")
     @ResponseBody
     public String data() {
-        System.out.println("---------656565656088080898--------");
-        return "hello world 878799999。87";
+        System.out.println("---------123656565656088080898--------");
+        return "hello world DSF。87";
     }
 }
 
